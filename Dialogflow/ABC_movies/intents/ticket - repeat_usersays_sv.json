@@ -1,0 +1,110 @@
+[
+  {
+    "id": "8504b3e4-4333-4c25-8bac-eec044b465e8",
+    "data": [
+      {
+        "text": "gör det igen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1516755072
+  },
+  {
+    "id": "a7188e27-dd3f-4108-afe8-7ebabda393c1",
+    "data": [
+      {
+        "text": "upprepa det",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1516755072
+  },
+  {
+    "id": "32c61d8e-f432-4833-ae1e-85c01375a545",
+    "data": [
+      {
+        "text": "kan du upprepa det",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1516755072
+  },
+  {
+    "id": "8bbab93d-2d1f-428f-bbec-6774406a16ea",
+    "data": [
+      {
+        "text": "vad sa du",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1516755072
+  },
+  {
+    "id": "01604fad-2656-46cb-b33b-556e12bdf3a1",
+    "data": [
+      {
+        "text": "upprepa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1516755072
+  },
+  {
+    "id": "3ea1d73d-a014-4f00-bf27-91a2ac5a389f",
+    "data": [
+      {
+        "text": "säg det igen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1516755072
+  },
+  {
+    "id": "1f190d91-eced-41ca-bfa4-e7804f7d47bb",
+    "data": [
+      {
+        "text": "upprepa de här resultatet",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1516755072
+  },
+  {
+    "id": "0a30ce12-33b8-4d28-a519-a8e5527b84e9",
+    "data": [
+      {
+        "text": "säg detta igen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1516755072
+  },
+  {
+    "id": "01b6fc84-826a-4d76-aeff-f28d7fb584d4",
+    "data": [
+      {
+        "text": "upprepa vad du sa precis",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1516755072
+  }
+]

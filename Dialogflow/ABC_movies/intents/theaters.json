@@ -1,0 +1,47 @@
+{
+  "id": "add7303b-7af0-4d32-974d-026578927876",
+  "name": "theaters",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "theater_name",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "17fa1a6d-fce0-43fa-85cb-4058117f97b2",
+          "required": true,
+          "dataType": "@theaters",
+          "name": "theaters",
+          "value": "$theaters",
+          "isList": true
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "cortanaCommand": {
+    "navigateOrService": "NAVIGATE",
+    "target": ""
+  },
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1545161448,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,30 @@
+[
+  {
+    "id": "4954305e-3ae4-4e3e-80c2-a38e69114041",
+    "data": [
+      {
+        "text": "2.O",
+        "alias": "movies",
+        "meta": "@movies",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545150949
+  },
+  {
+    "id": "18f91d08-ac84-4a75-9187-f917b373b1a0",
+    "data": [
+      {
+        "text": "avengers",
+        "alias": "movies",
+        "meta": "@movies",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545149723
+  }
+]

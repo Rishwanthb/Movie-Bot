@@ -1,0 +1,76 @@
+{
+  "id": "20911e4e-9089-4357-a044-437538fe0b9b",
+  "name": "Default Welcome Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.welcome",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": [
+            "¡Hola!",
+            "¡Hey!",
+            "¡Buenos días!"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "fr",
+          "speech": [
+            "Salut !",
+            "Bonjour !",
+            "Salutations !",
+            "Bienvenue !"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "pt",
+          "speech": "Olá!"
+        },
+        {
+          "type": 0,
+          "lang": "sv",
+          "speech": [
+            "Hallå!",
+            "Hej!",
+            "Hej hej!",
+            "Hejsan!"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Hi! Welcome to PVR Movies. How can I help you?",
+            "Hello! Welcome to PVR Movies. How can I help you?",
+            "Good day! Welcome to PVR Movies. What can I do for you today?",
+            "Greetings! Welcome to PVR Movies. How can I assist?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "cortanaCommand": {
+    "navigateOrService": "NAVIGATE",
+    "target": ""
+  },
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1546422133,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "WELCOME"
+    }
+  ]
+}

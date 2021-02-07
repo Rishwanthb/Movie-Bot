@@ -1,0 +1,37 @@
+[
+  {
+    "value": "6am",
+    "synonyms": [
+      "6am",
+      "6 a.m."
+    ]
+  },
+  {
+    "value": "12pm",
+    "synonyms": [
+      "12pm",
+      "12 p.m."
+    ]
+  },
+  {
+    "value": "3pm",
+    "synonyms": [
+      "3pm",
+      "3 p.m."
+    ]
+  },
+  {
+    "value": "6pm",
+    "synonyms": [
+      "6pm",
+      "6 p.m."
+    ]
+  },
+  {
+    "value": "9pm",
+    "synonyms": [
+      "9pm",
+      "9 p.m."
+    ]
+  }
+]

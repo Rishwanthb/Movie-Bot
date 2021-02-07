@@ -1,0 +1,123 @@
+[
+  {
+    "id": "a6f5c05b-b36e-4248-beb5-f3ec95c04edd",
+    "data": [
+      {
+        "text": "gör det",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1516755279
+  },
+  {
+    "id": "cf8469c8-65de-4871-aa23-88159773687c",
+    "data": [
+      {
+        "text": "jag har inget emot det",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1516755279
+  },
+  {
+    "id": "56434c8a-d4d2-4964-96fe-b737c2b2dbca",
+    "data": [
+      {
+        "text": "exakt",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1516755279
+  },
+  {
+    "id": "c75323f0-abc7-4082-b7fb-6e3308b6b5ea",
+    "data": [
+      {
+        "text": "ja",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1516755279
+  },
+  {
+    "id": "d87311ac-e779-4341-9f56-8f856f244d39",
+    "data": [
+      {
+        "text": "jag godkänner",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1516755279
+  },
+  {
+    "id": "5ec22ff9-7c02-4a10-b586-d46b50732740",
+    "data": [
+      {
+        "text": "visst",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1516755279
+  },
+  {
+    "id": "45c8739d-04e3-4683-8e9b-4b4d953c4632",
+    "data": [
+      {
+        "text": "det stämmer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1516755279
+  },
+  {
+    "id": "f8dc1cbc-dcb6-40bd-ad0e-4c3d48d93f23",
+    "data": [
+      {
+        "text": "bekräfta",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1516755279
+  },
+  {
+    "id": "d3efa790-f464-4f58-8e1e-c7fbabd89d7c",
+    "data": [
+      {
+        "text": "låter bra",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1516755279
+  },
+  {
+    "id": "57f7fb9e-fd8b-4a7d-bbd3-201d818b6319",
+    "data": [
+      {
+        "text": "självklart",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1516755279
+  }
+]

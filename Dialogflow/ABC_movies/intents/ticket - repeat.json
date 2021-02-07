@@ -1,0 +1,78 @@
+{
+  "id": "9fe22796-3973-4973-8938-0bffd9ab9852",
+  "parentId": "6d45109a-09ad-4261-a2f4-04e5a8febc95",
+  "rootParentId": "6d45109a-09ad-4261-a2f4-04e5a8febc95",
+  "name": "ticket - repeat",
+  "auto": true,
+  "contexts": [
+    "ticket-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "ticket.ticket-repeat",
+      "affectedContexts": [
+        {
+          "name": "finalconfirm",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "ticket-repeat-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "d360099c-8f2c-4f5b-9883-aa30c30175e9",
+          "required": true,
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "prompts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": []
+        },
+        {
+          "type": 0,
+          "lang": "fr",
+          "speech": []
+        },
+        {
+          "type": 0,
+          "lang": "pt",
+          "speech": []
+        },
+        {
+          "type": 0,
+          "lang": "sv",
+          "speech": []
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Your booking Details is\nMovie Name : #movie_name.movies .\nTheater : #theater_name.theaters .\nLocation : #loc_sel.othercities . \nDate : #movie_date.date .\nTime : #movie_time.shows .\nNumber of seats : $number .\n\n\n\nDo you want to continue?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "cortanaCommand": {
+    "navigateOrService": "NAVIGATE",
+    "target": ""
+  },
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1546445816,
+  "fallbackIntent": false,
+  "events": []
+}

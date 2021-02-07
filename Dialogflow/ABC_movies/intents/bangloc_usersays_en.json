@@ -1,0 +1,28 @@
+[
+  {
+    "id": "ca2d9bf3-d090-499a-81a0-a18faad7a141",
+    "data": [
+      {
+        "text": "confirm",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545066504
+  },
+  {
+    "id": "2bac1ead-b02e-4785-a424-3aeb6a453850",
+    "data": [
+      {
+        "text": "yes",
+        "alias": "confirmloc",
+        "meta": "@confirmloc",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545111644
+  }
+]

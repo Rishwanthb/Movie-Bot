@@ -1,0 +1,24 @@
+[
+  {
+    "value": "english",
+    "synonyms": [
+      "english",
+      "eng"
+    ]
+  },
+  {
+    "value": "hindi",
+    "synonyms": [
+      "hindi",
+      "hindhi",
+      "hind"
+    ]
+  },
+  {
+    "value": "tamil",
+    "synonyms": [
+      "tamil",
+      "taml"
+    ]
+  }
+]

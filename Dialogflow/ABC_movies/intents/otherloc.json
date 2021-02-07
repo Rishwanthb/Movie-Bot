@@ -1,0 +1,41 @@
+{
+  "id": "9f80597f-aedc-429c-8ffb-eb50b1443270",
+  "name": "otherloc",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "8ed126dd-d08e-46b0-9b76-e960328e78b0",
+          "required": true,
+          "dataType": "@movie",
+          "name": "movie",
+          "value": "$movie",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "cortanaCommand": {
+    "navigateOrService": "NAVIGATE",
+    "target": ""
+  },
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1546446432,
+  "fallbackIntent": false,
+  "events": []
+}

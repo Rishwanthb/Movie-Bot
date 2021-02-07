@@ -1,0 +1,122 @@
+[
+  {
+    "id": "400aff4c-9c85-48e3-abf0-e09e777270fb",
+    "data": [
+      {
+        "text": "répète, s\u0027il te plaît",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1497436837
+  },
+  {
+    "id": "8315df87-c146-47a2-8420-44974b7b6f12",
+    "data": [
+      {
+        "text": "est-ce que tu peux répéter",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 1497436837
+  },
+  {
+    "id": "38b91318-7344-42a9-a598-4f408b8cfc84",
+    "data": [
+      {
+        "text": "répète ce que tu viens de dire",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1497436837
+  },
+  {
+    "id": "1b09d6e1-72ec-4866-abc0-5bde38bbe23b",
+    "data": [
+      {
+        "text": "redis-moi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 1497436837
+  },
+  {
+    "id": "94c61346-68ec-44a4-9fa4-b91b7b89da0f",
+    "data": [
+      {
+        "text": "répète ça",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1497436837
+  },
+  {
+    "id": "7d0dde42-eb02-4008-a028-3ace1ccb59e7",
+    "data": [
+      {
+        "text": "recommence",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1497436837
+  },
+  {
+    "id": "3f521626-8767-4415-8a11-d39745a3ebff",
+    "data": [
+      {
+        "text": "peux-tu répéter",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1497436837
+  },
+  {
+    "id": "cb145f8d-6894-46c3-ac05-5e177e24fa60",
+    "data": [
+      {
+        "text": "redis-le moi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1497436837
+  },
+  {
+    "id": "6efb26ea-8ee3-4b4e-9977-aacf9a6c5150",
+    "data": [
+      {
+        "text": "répète",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1497436837
+  },
+  {
+    "id": "a232231a-fa91-4e26-b6a1-4fe6f42375f7",
+    "data": [
+      {
+        "text": "répète la même chose",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1497436837
+  }
+]

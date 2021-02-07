@@ -1,0 +1,41 @@
+{
+  "id": "e2da625f-ef62-42f4-a378-c6240974b9b2",
+  "name": "sellanguage",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "8f024ff6-4669-43b4-8401-2f3288a0b84e",
+          "required": true,
+          "dataType": "@language",
+          "name": "language",
+          "value": "$language",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "cortanaCommand": {
+    "navigateOrService": "NAVIGATE",
+    "target": ""
+  },
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1545117521,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,54 @@
+{
+  "id": "fc5c00ff-0fc5-4d23-979f-52b3287e7829",
+  "parentId": "9fe22796-3973-4973-8938-0bffd9ab9852",
+  "rootParentId": "6d45109a-09ad-4261-a2f4-04e5a8febc95",
+  "name": "ticket - repeat - no",
+  "auto": true,
+  "contexts": [
+    "ticket-repeat-followup",
+    "finalconfirm"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "ticket.ticket-repeat.ticket-repeat-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": []
+        },
+        {
+          "type": 0,
+          "lang": "fr",
+          "speech": []
+        },
+        {
+          "type": 0,
+          "lang": "pt",
+          "speech": []
+        },
+        {
+          "type": 0,
+          "lang": "sv",
+          "speech": []
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "You have not booked your tickets for the movie #movie_name.movies . Have a good day."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1545196781,
+  "fallbackIntent": false,
+  "events": []
+}

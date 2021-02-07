@@ -1,0 +1,111 @@
+[
+  {
+    "id": "78156d43-8ae5-48af-8a1a-8953d693e3b6",
+    "data": [
+      {
+        "text": "inte direkt",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1516754948
+  },
+  {
+    "id": "bdf9cebb-6a37-4bc2-bab0-554fcd246455",
+    "data": [
+      {
+        "text": "definitivt inte",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1516754948
+  },
+  {
+    "id": "e23167b2-c290-4185-948f-84aa9ae4fa75",
+    "data": [
+      {
+        "text": "inte intresserad",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1516754948
+  },
+  {
+    "id": "3c3e2b08-1df4-4520-aec9-f191279edebf",
+    "data": [
+      {
+        "text": "jag vill inte det",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1516754948
+  },
+  {
+    "id": "478c986a-f24f-41bf-a87a-37bfd4deeeec",
+    "data": [
+      {
+        "text": "nej",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1516754948
+  },
+  {
+    "id": "0a2811fc-9921-4a70-bf34-4ac71c1158fe",
+    "data": [
+      {
+        "text": "gör inte det",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1516754948
+  },
+  {
+    "id": "bb9eadb8-01fe-40e2-ace7-b1c9215b188e",
+    "data": [
+      {
+        "text": "nej tack",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1516754948
+  },
+  {
+    "id": "26d9e414-4cc8-447d-a00d-e0cbd6ae7ce2",
+    "data": [
+      {
+        "text": "jag tror inte det",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1516754948
+  },
+  {
+    "id": "0ae3aee7-2fe8-4372-a4a0-87f851046fdc",
+    "data": [
+      {
+        "text": "jag håller inte med",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1516754948
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "id": "c251f14a-2728-4f9a-b7bf-25cabf1776be",
+    "data": [
+      {
+        "text": "lido",
+        "alias": "theaters",
+        "meta": "@theaters",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545156748
+  },
+  {
+    "id": "bfabbef1-6a74-4fe0-8bec-7cf3b6be9691",
+    "data": [
+      {
+        "text": "Forum",
+        "alias": "theaters",
+        "meta": "@theaters",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545156748
+  },
+  {
+    "id": "4eb22d14-e1b0-405e-a782-5d4f110a3484",
+    "data": [
+      {
+        "text": "Orion",
+        "alias": "theaters",
+        "meta": "@theaters",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545156748
+  }
+]

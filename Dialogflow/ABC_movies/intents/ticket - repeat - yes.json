@@ -1,0 +1,64 @@
+{
+  "id": "4174abd7-b2b2-4f7e-ab05-aa275f3a9b0e",
+  "parentId": "9fe22796-3973-4973-8938-0bffd9ab9852",
+  "rootParentId": "6d45109a-09ad-4261-a2f4-04e5a8febc95",
+  "name": "ticket - repeat - yes",
+  "auto": true,
+  "contexts": [
+    "ticket-repeat-followup",
+    "finalconfirm"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "ticket.ticket-repeat.ticket-repeat-yes",
+      "affectedContexts": [
+        {
+          "name": "money",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": []
+        },
+        {
+          "type": 0,
+          "lang": "fr",
+          "speech": []
+        },
+        {
+          "type": 0,
+          "lang": "pt",
+          "speech": []
+        },
+        {
+          "type": 0,
+          "lang": "sv",
+          "speech": []
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Kudos! You have booked your tickets to #movie_name.movies .\nPayment has been made from your default payment method (Credit card). \n\nYou will receive your ticket to your mail.\nEnjoy the show. Good bye."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "cortanaCommand": {
+    "navigateOrService": "NAVIGATE",
+    "target": ""
+  },
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1546445664,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,16 @@
+[
+  {
+    "id": "794cf8ee-266c-4376-a0c8-35c6772dad1f",
+    "data": [
+      {
+        "text": "bangalore",
+        "alias": "othercities",
+        "meta": "@othercities",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545117130
+  }
+]

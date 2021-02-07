@@ -1,0 +1,47 @@
+{
+  "id": "9d215aed-e89d-4a36-9ad7-663dc6684ad6",
+  "name": "seat",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "movie_seat_select",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "842c8c53-c169-424d-b80f-e80b7f50c725",
+          "required": true,
+          "dataType": "@seatclass",
+          "name": "seatclass",
+          "value": "$seatclass",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "cortanaCommand": {
+    "navigateOrService": "NAVIGATE",
+    "target": ""
+  },
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1545194034,
+  "fallbackIntent": false,
+  "events": []
+}

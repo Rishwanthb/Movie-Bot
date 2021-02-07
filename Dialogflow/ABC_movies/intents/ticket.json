@@ -1,0 +1,62 @@
+{
+  "id": "6d45109a-09ad-4261-a2f4-04e5a8febc95",
+  "name": "ticket",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "ticket-followup",
+          "parameters": {},
+          "lifespan": 2
+        },
+        {
+          "name": "movie_name",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "theater_name",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "ticket_count",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "da9f6682-2ae6-463b-9e16-3115ec0f9e10",
+          "required": true,
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "cortanaCommand": {
+    "navigateOrService": "NAVIGATE",
+    "target": ""
+  },
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1545203581,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,47 @@
+{
+  "id": "4110fdd2-f927-46f2-ab2c-119beefb6ae0",
+  "name": "time",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "movie_time",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "d0ef81c6-69fa-4fc5-a9a1-957c4ffe0179",
+          "required": true,
+          "dataType": "@shows",
+          "name": "shows",
+          "value": "$shows",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "cortanaCommand": {
+    "navigateOrService": "NAVIGATE",
+    "target": ""
+  },
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1545161578,
+  "fallbackIntent": false,
+  "events": []
+}

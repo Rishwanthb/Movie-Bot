@@ -1,0 +1,110 @@
+[
+  {
+    "id": "f1bc4076-ed35-48de-abc2-cda9d4b29cf5",
+    "data": [
+      {
+        "text": "repete o que acabaste de dizer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1497435197
+  },
+  {
+    "id": "0a2b71ea-3c50-4db3-8ce6-ebafe4ff2b06",
+    "data": [
+      {
+        "text": "não entendi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 1497435197
+  },
+  {
+    "id": "d9d2a319-8e65-49de-b7e6-fd8c3b636604",
+    "data": [
+      {
+        "text": "diz novamente",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1497435197
+  },
+  {
+    "id": "2c2dd017-087f-4d9d-9b05-bb9f0b17b4a7",
+    "data": [
+      {
+        "text": "repetir",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1497435197
+  },
+  {
+    "id": "ebba331d-226f-429b-b24a-599509336b1e",
+    "data": [
+      {
+        "text": "podes repetir",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1497435197
+  },
+  {
+    "id": "a502cbd4-282c-451c-aece-3c7b012ce545",
+    "data": [
+      {
+        "text": "repete estes resultados",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1497435197
+  },
+  {
+    "id": "b9720a87-2704-4482-a064-4d291bf6de99",
+    "data": [
+      {
+        "text": "faz isso outra vez",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "updated": 1497435197
+  },
+  {
+    "id": "7dd32739-56a5-414e-aa37-cf996d8eb7c1",
+    "data": [
+      {
+        "text": "repete o que disseste",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1497435197
+  },
+  {
+    "id": "d4d80681-444e-4795-a158-61bf401df189",
+    "data": [
+      {
+        "text": "repete",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 1497435197
+  }
+]

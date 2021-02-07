@@ -1,0 +1,47 @@
+{
+  "id": "92ada69a-8eb1-4948-8a7c-7a34580c3b6a",
+  "name": "otherlocsel",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "loc_sel",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "168bdffb-f1d8-4134-a257-44bf92eb85b6",
+          "required": true,
+          "dataType": "@othercities",
+          "name": "othercities",
+          "value": "$othercities",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "cortanaCommand": {
+    "navigateOrService": "NAVIGATE",
+    "target": ""
+  },
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1546447138,
+  "fallbackIntent": false,
+  "events": []
+}

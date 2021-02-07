@@ -1,0 +1,30 @@
+[
+  {
+    "id": "3cf3ea60-0378-4c72-9ed7-2237a6702043",
+    "data": [
+      {
+        "text": "economy",
+        "alias": "seatclass",
+        "meta": "@seatclass",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545157943
+  },
+  {
+    "id": "4a65d1e7-9d50-4068-8a6a-4d978936c7f3",
+    "data": [
+      {
+        "text": "econamy",
+        "alias": "seatclass",
+        "meta": "@seatclass",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545157943
+  }
+]

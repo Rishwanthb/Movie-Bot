@@ -1,0 +1,66 @@
+[
+  {
+    "id": "369aec88-61fb-48d1-8fbd-22d64242271c",
+    "data": [
+      {
+        "text": "movie ticket",
+        "alias": "movie",
+        "meta": "@movie",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546444938
+  },
+  {
+    "id": "a89e0510-54cc-4b8f-aa31-7358f9f3a2b2",
+    "data": [
+      {
+        "text": "i want to book ",
+        "userDefined": false
+      },
+      {
+        "text": "movie ticket",
+        "alias": "movie",
+        "meta": "@movie",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546444938
+  },
+  {
+    "id": "fdfd6618-9149-4148-9d29-a66c3e0bcc44",
+    "data": [
+      {
+        "text": "i want to book ",
+        "userDefined": false
+      },
+      {
+        "text": "movie tickets",
+        "alias": "movie",
+        "meta": "@movie",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546444938
+  },
+  {
+    "id": "e4d685e4-da5b-4b55-9e0b-e125b88c4242",
+    "data": [
+      {
+        "text": "movie",
+        "alias": "movie",
+        "meta": "@movie",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546444938
+  }
+]

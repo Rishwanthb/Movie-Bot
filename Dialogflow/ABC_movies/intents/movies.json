@@ -1,0 +1,47 @@
+{
+  "id": "d8e7718a-bb99-4db1-aecd-b7249fd2afce",
+  "name": "movies",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "movie_name",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "3eb66e34-a400-4751-9226-88eb4cd9dc6f",
+          "required": true,
+          "dataType": "@movies",
+          "name": "movies",
+          "value": "$movies",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "cortanaCommand": {
+    "navigateOrService": "NAVIGATE",
+    "target": ""
+  },
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1545161398,
+  "fallbackIntent": false,
+  "events": []
+}

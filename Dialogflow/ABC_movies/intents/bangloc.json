@@ -1,0 +1,41 @@
+{
+  "id": "4ed0bd8b-2433-4a98-8dff-17981738b903",
+  "name": "bangloc",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "df447638-5219-41b5-9810-967dc056256a",
+          "required": true,
+          "dataType": "@confirmloc",
+          "name": "confirmloc",
+          "value": "$confirmloc",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "cortanaCommand": {
+    "navigateOrService": "NAVIGATE",
+    "target": ""
+  },
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1545194085,
+  "fallbackIntent": false,
+  "events": []
+}
